@@ -1,0 +1,134 @@
+C:\Users\27763\OneDrive\Desktop\Notes\2024\PRG281\PRG_281 Project\Goals_PRG281_project\bin\Debug\Goals_PRG281_project.exe.config
+C:\Users\27763\OneDrive\Desktop\Notes\2024\PRG281\PRG_281 Project\Goals_PRG281_project\bin\Debug\Goals_PRG281_project.exe
+C:\Users\27763\OneDrive\Desktop\Notes\2024\PRG281\PRG_281 Project\Goals_PRG281_project\bin\Debug\Goals_PRG281_project.pdb
+C:\Users\27763\OneDrive\Desktop\Notes\2024\PRG281\PRG_281 Project\Goals_PRG281_project\obj\Debug\Goals_PRG281_project.csproj.AssemblyReference.cache
+C:\Users\27763\OneDrive\Desktop\Notes\2024\PRG281\PRG_281 Project\Goals_PRG281_project\obj\Debug\Goals_PRG281_project.frmCurrent_goals.resources
+C:\Users\27763\OneDrive\Desktop\Notes\2024\PRG281\PRG_281 Project\Goals_PRG281_project\obj\Debug\Goals_PRG281_project.frmMainMenu.resources
+C:\Users\27763\OneDrive\Desktop\Notes\2024\PRG281\PRG_281 Project\Goals_PRG281_project\obj\Debug\Goals_PRG281_project.frmGoal_setting.resources
+C:\Users\27763\OneDrive\Desktop\Notes\2024\PRG281\PRG_281 Project\Goals_PRG281_project\obj\Debug\Goals_PRG281_project.Properties.Resources.resources
+C:\Users\27763\OneDrive\Desktop\Notes\2024\PRG281\PRG_281 Project\Goals_PRG281_project\obj\Debug\Goals_PRG281_project.csproj.GenerateResource.cache
+C:\Users\27763\OneDrive\Desktop\Notes\2024\PRG281\PRG_281 Project\Goals_PRG281_project\obj\Debug\Goals_PRG281_project.csproj.CoreCompileInputs.cache
+C:\Users\27763\OneDrive\Desktop\Notes\2024\PRG281\PRG_281 Project\Goals_PRG281_project\obj\Debug\Goals_PRG281_project.exe
+C:\Users\27763\OneDrive\Desktop\Notes\2024\PRG281\PRG_281 Project\Goals_PRG281_project\obj\Debug\Goals_PRG281_project.pdb
+C:\Users\CryFo\OneDrive\Desktop\Goals_PRG281_project\obj\Debug\Goals_PRG281_project.csproj.AssemblyReference.cache
+C:\Users\CryFo\OneDrive\Desktop\Goals_PRG281_project\obj\Debug\Goals_PRG281_project.csproj.SuggestedBindingRedirects.cache
+C:\Users\CryFo\OneDrive\Desktop\Goals_PRG281_project\obj\Debug\Goals_PRG281_project.frmCurrent_goals.resources
+C:\Users\CryFo\OneDrive\Desktop\Goals_PRG281_project\obj\Debug\Goals_PRG281_project.frmMainMenu.resources
+C:\Users\CryFo\OneDrive\Desktop\Goals_PRG281_project\obj\Debug\Goals_PRG281_project.frmGoal_setting.resources
+C:\Users\CryFo\OneDrive\Desktop\Goals_PRG281_project\obj\Debug\Goals_PRG281_project.Properties.Resources.resources
+C:\Users\CryFo\OneDrive\Desktop\Goals_PRG281_project\obj\Debug\Goals_PRG281_project.csproj.GenerateResource.cache
+C:\Users\CryFo\OneDrive\Desktop\Goals_PRG281_project\obj\Debug\Goals_PRG281_project.csproj.CoreCompileInputs.cache
+C:\Users\CryFo\OneDrive\Desktop\Goals_PRG281_project\obj\Debug\Goals_PRG281_project.exe
+C:\Users\CryFo\OneDrive\Desktop\Goals_PRG281_project\obj\Debug\Goals_PRG281_project.pdb
+C:\Users\CryFo\OneDrive\Desktop\Goals_PRG281_project\bin\Debug\Goals_PRG281_project.exe.config
+C:\Users\CryFo\OneDrive\Desktop\Goals_PRG281_project\bin\Debug\Goals_PRG281_project.exe
+C:\Users\CryFo\OneDrive\Desktop\Goals_PRG281_project\bin\Debug\Goals_PRG281_project.pdb
+C:\Users\CryFo\OneDrive\Desktop\Goals_PRG281_project\obj\Debug\PROJECTPAIN.frmLp.resources
+C:\Users\CryFo\OneDrive\Desktop\Goals_PRG281_project\bin\Debug\Microsoft.Solver.Foundation.dll
+C:\Users\CryFo\OneDrive\Desktop\Goals_PRG281_project\bin\Debug\Microsoft.Solver.Foundation.xml
+C:\Users\CryFo\OneDrive\Desktop\Goals_PRG281_project\obj\Debug\Goals_PRG281_project.csproj.CopyComplete
+C:\Users\CryFo\OneDrive\Desktop\Goals_PRG281_project\obj\Debug\Goals_PRG281_project.frmSplashScreen.resources
+C:\Users\CryFo\OneDrive\Desktop\Goals_PRG281_project\obj\Debug\Goals_PRG281_project.frmViewDetailedExpenses.resources
+C:\Users\CryFo\OneDrive\Desktop\Goals_PRG281_project\obj\Debug\Goals_PRG281_project.frmExistingBudgetScreen1.resources
+C:\Users\CryFo\OneDrive\Desktop\Goals_PRG281_project\obj\Debug\Goals_PRG281_project.frmExpenseForm.resources
+C:\Users\CryFo\OneDrive\Desktop\Goals_PRG281_project\obj\Debug\Goals_PRG281_project.frmBudgetSetup.resources
+C:\Users\CryFo\OneDrive\Desktop\Goals_PRG281_project\obj\Debug\Goals_PRG281_project.frmExpenseTracker.resources
+C:\Users\icgeorge\Downloads\Goals_PRG281_project\Goals_PRG281_project\bin\Debug\Goals_PRG281_project.exe.config
+C:\Users\icgeorge\Downloads\Goals_PRG281_project\Goals_PRG281_project\bin\Debug\Goals_PRG281_project.exe
+C:\Users\icgeorge\Downloads\Goals_PRG281_project\Goals_PRG281_project\bin\Debug\Goals_PRG281_project.pdb
+C:\Users\icgeorge\Downloads\Goals_PRG281_project\Goals_PRG281_project\bin\Debug\Microsoft.Solver.Foundation.dll
+C:\Users\icgeorge\Downloads\Goals_PRG281_project\Goals_PRG281_project\bin\Debug\Microsoft.Solver.Foundation.xml
+C:\Users\icgeorge\Downloads\Goals_PRG281_project\Goals_PRG281_project\obj\Debug\Goals_PRG281_project.csproj.AssemblyReference.cache
+C:\Users\icgeorge\Downloads\Goals_PRG281_project\Goals_PRG281_project\obj\Debug\Goals_PRG281_project.frmCurrent_goals.resources
+C:\Users\icgeorge\Downloads\Goals_PRG281_project\Goals_PRG281_project\obj\Debug\Goals_PRG281_project.frmExpenseForm.resources
+C:\Users\icgeorge\Downloads\Goals_PRG281_project\Goals_PRG281_project\obj\Debug\Goals_PRG281_project.frmBudgetSetup.resources
+C:\Users\icgeorge\Downloads\Goals_PRG281_project\Goals_PRG281_project\obj\Debug\Goals_PRG281_project.frmViewDetailedExpenses.resources
+C:\Users\icgeorge\Downloads\Goals_PRG281_project\Goals_PRG281_project\obj\Debug\Goals_PRG281_project.frmExpenseTracker.resources
+C:\Users\icgeorge\Downloads\Goals_PRG281_project\Goals_PRG281_project\obj\Debug\Goals_PRG281_project.frmMainMenu.resources
+C:\Users\icgeorge\Downloads\Goals_PRG281_project\Goals_PRG281_project\obj\Debug\Goals_PRG281_project.frmGoal_setting.resources
+C:\Users\icgeorge\Downloads\Goals_PRG281_project\Goals_PRG281_project\obj\Debug\Goals_PRG281_project.Properties.Resources.resources
+C:\Users\icgeorge\Downloads\Goals_PRG281_project\Goals_PRG281_project\obj\Debug\Goals_PRG281_project.frmExistingBudgetScreen1.resources
+C:\Users\icgeorge\Downloads\Goals_PRG281_project\Goals_PRG281_project\obj\Debug\Goals_PRG281_project.csproj.GenerateResource.cache
+C:\Users\icgeorge\Downloads\Goals_PRG281_project\Goals_PRG281_project\obj\Debug\Goals_PRG281_project.csproj.CoreCompileInputs.cache
+C:\Users\icgeorge\Downloads\Goals_PRG281_project\Goals_PRG281_project\obj\Debug\Goals_PR.A25AC955.Up2Date
+C:\Users\icgeorge\Downloads\Goals_PRG281_project\Goals_PRG281_project\obj\Debug\Goals_PRG281_project.exe
+C:\Users\icgeorge\Downloads\Goals_PRG281_project\Goals_PRG281_project\obj\Debug\Goals_PRG281_project.pdb
+C:\Users\icgeorge\Downloads\Goals_PRG281_project\Goals_PRG281_project\obj\Debug\PROJECTPAIN.frmLinprog.resources
+C:\Users\icgeorge\Downloads\Goals_PRG281_project\Goals_PRG281_project\obj\Debug\Goals_PRG281_project.frmLoadingScreen.resources
+C:\Users\icgeorge\Desktop\Visual programs\Goals_PRG281_project (2)\Goals_PRG281_project\Goals_PRG281_project\bin\Debug\Goals_PRG281_project.exe.config
+C:\Users\icgeorge\Desktop\Visual programs\Goals_PRG281_project (2)\Goals_PRG281_project\Goals_PRG281_project\bin\Debug\Goals_PRG281_project.exe
+C:\Users\icgeorge\Desktop\Visual programs\Goals_PRG281_project (2)\Goals_PRG281_project\Goals_PRG281_project\bin\Debug\Goals_PRG281_project.pdb
+C:\Users\icgeorge\Desktop\Visual programs\Goals_PRG281_project (2)\Goals_PRG281_project\Goals_PRG281_project\bin\Debug\Microsoft.Solver.Foundation.dll
+C:\Users\icgeorge\Desktop\Visual programs\Goals_PRG281_project (2)\Goals_PRG281_project\Goals_PRG281_project\bin\Debug\Microsoft.Solver.Foundation.xml
+C:\Users\icgeorge\Desktop\Visual programs\Goals_PRG281_project (2)\Goals_PRG281_project\Goals_PRG281_project\obj\Debug\Goals_PRG281_project.csproj.AssemblyReference.cache
+C:\Users\icgeorge\Desktop\Visual programs\Goals_PRG281_project (2)\Goals_PRG281_project\Goals_PRG281_project\obj\Debug\Goals_PRG281_project.frmCurrent_goals.resources
+C:\Users\icgeorge\Desktop\Visual programs\Goals_PRG281_project (2)\Goals_PRG281_project\Goals_PRG281_project\obj\Debug\Goals_PRG281_project.frmExpenseForm.resources
+C:\Users\icgeorge\Desktop\Visual programs\Goals_PRG281_project (2)\Goals_PRG281_project\Goals_PRG281_project\obj\Debug\Goals_PRG281_project.frmLoadingScreen.resources
+C:\Users\icgeorge\Desktop\Visual programs\Goals_PRG281_project (2)\Goals_PRG281_project\Goals_PRG281_project\obj\Debug\Goals_PRG281_project.frmBudgetSetup.resources
+C:\Users\icgeorge\Desktop\Visual programs\Goals_PRG281_project (2)\Goals_PRG281_project\Goals_PRG281_project\obj\Debug\PROJECTPAIN.frmLinprog.resources
+C:\Users\icgeorge\Desktop\Visual programs\Goals_PRG281_project (2)\Goals_PRG281_project\Goals_PRG281_project\obj\Debug\Goals_PRG281_project.frmViewDetailedExpenses.resources
+C:\Users\icgeorge\Desktop\Visual programs\Goals_PRG281_project (2)\Goals_PRG281_project\Goals_PRG281_project\obj\Debug\Goals_PRG281_project.frmExpenseTracker.resources
+C:\Users\icgeorge\Desktop\Visual programs\Goals_PRG281_project (2)\Goals_PRG281_project\Goals_PRG281_project\obj\Debug\Goals_PRG281_project.frmMainMenu.resources
+C:\Users\icgeorge\Desktop\Visual programs\Goals_PRG281_project (2)\Goals_PRG281_project\Goals_PRG281_project\obj\Debug\Goals_PRG281_project.frmGoal_setting.resources
+C:\Users\icgeorge\Desktop\Visual programs\Goals_PRG281_project (2)\Goals_PRG281_project\Goals_PRG281_project\obj\Debug\Goals_PRG281_project.Properties.Resources.resources
+C:\Users\icgeorge\Desktop\Visual programs\Goals_PRG281_project (2)\Goals_PRG281_project\Goals_PRG281_project\obj\Debug\Goals_PRG281_project.frmExistingBudgetScreen1.resources
+C:\Users\icgeorge\Desktop\Visual programs\Goals_PRG281_project (2)\Goals_PRG281_project\Goals_PRG281_project\obj\Debug\Goals_PRG281_project.csproj.GenerateResource.cache
+C:\Users\icgeorge\Desktop\Visual programs\Goals_PRG281_project (2)\Goals_PRG281_project\Goals_PRG281_project\obj\Debug\Goals_PRG281_project.csproj.CoreCompileInputs.cache
+C:\Users\icgeorge\Desktop\Visual programs\Goals_PRG281_project (2)\Goals_PRG281_project\Goals_PRG281_project\obj\Debug\Goals_PR.A25AC955.Up2Date
+C:\Users\icgeorge\Desktop\Visual programs\Goals_PRG281_project (2)\Goals_PRG281_project\Goals_PRG281_project\obj\Debug\Goals_PRG281_project.exe
+C:\Users\icgeorge\Desktop\Visual programs\Goals_PRG281_project (2)\Goals_PRG281_project\Goals_PRG281_project\obj\Debug\Goals_PRG281_project.pdb
+C:\Users\CryFo\OneDrive\Desktop\Goals_PRG281_project (2)\Goals_PRG281_project\Goals_PRG281_project\obj\Debug\Goals_PRG281_project.csproj.AssemblyReference.cache
+C:\Users\CryFo\OneDrive\Desktop\Goals_PRG281_project (2)\Goals_PRG281_project\Goals_PRG281_project\obj\Debug\Goals_PRG281_project.csproj.SuggestedBindingRedirects.cache
+C:\Users\CryFo\OneDrive\Desktop\Goals_PRG281_project (2)\Goals_PRG281_project\Goals_PRG281_project\obj\Debug\Goals_PRG281_project.frmCurrent_goals.resources
+C:\Users\CryFo\OneDrive\Desktop\Goals_PRG281_project (2)\Goals_PRG281_project\Goals_PRG281_project\obj\Debug\Goals_PRG281_project.frmExpenseForm.resources
+C:\Users\CryFo\OneDrive\Desktop\Goals_PRG281_project (2)\Goals_PRG281_project\Goals_PRG281_project\obj\Debug\Goals_PRG281_project.frmLoadingScreen.resources
+C:\Users\CryFo\OneDrive\Desktop\Goals_PRG281_project (2)\Goals_PRG281_project\Goals_PRG281_project\obj\Debug\Goals_PRG281_project.frmBudgetSetup.resources
+C:\Users\CryFo\OneDrive\Desktop\Goals_PRG281_project (2)\Goals_PRG281_project\Goals_PRG281_project\obj\Debug\PROJECTPAIN.frmLinprog.resources
+C:\Users\CryFo\OneDrive\Desktop\Goals_PRG281_project (2)\Goals_PRG281_project\Goals_PRG281_project\obj\Debug\Goals_PRG281_project.frmViewDetailedExpenses.resources
+C:\Users\CryFo\OneDrive\Desktop\Goals_PRG281_project (2)\Goals_PRG281_project\Goals_PRG281_project\obj\Debug\Goals_PRG281_project.frmExpenseTracker.resources
+C:\Users\CryFo\OneDrive\Desktop\Goals_PRG281_project (2)\Goals_PRG281_project\Goals_PRG281_project\obj\Debug\Goals_PRG281_project.frmMainMenu.resources
+C:\Users\CryFo\OneDrive\Desktop\Goals_PRG281_project (2)\Goals_PRG281_project\Goals_PRG281_project\obj\Debug\Goals_PRG281_project.frmGoal_setting.resources
+C:\Users\CryFo\OneDrive\Desktop\Goals_PRG281_project (2)\Goals_PRG281_project\Goals_PRG281_project\obj\Debug\Goals_PRG281_project.Properties.Resources.resources
+C:\Users\CryFo\OneDrive\Desktop\Goals_PRG281_project (2)\Goals_PRG281_project\Goals_PRG281_project\obj\Debug\Goals_PRG281_project.frmExistingBudgetScreen1.resources
+C:\Users\CryFo\OneDrive\Desktop\Goals_PRG281_project (2)\Goals_PRG281_project\Goals_PRG281_project\obj\Debug\Goals_PRG281_project.csproj.GenerateResource.cache
+C:\Users\CryFo\OneDrive\Desktop\Goals_PRG281_project (2)\Goals_PRG281_project\Goals_PRG281_project\obj\Debug\Goals_PRG281_project.csproj.CoreCompileInputs.cache
+C:\Users\CryFo\OneDrive\Desktop\Goals_PRG281_project (2)\Goals_PRG281_project\Goals_PRG281_project\obj\Debug\Goals_PRG281_project.exe
+C:\Users\CryFo\OneDrive\Desktop\Goals_PRG281_project (2)\Goals_PRG281_project\Goals_PRG281_project\obj\Debug\Goals_PRG281_project.pdb
+C:\Users\CryFo\OneDrive\Desktop\Goals_PRG281_project (2)\Goals_PRG281_project\Goals_PRG281_project\bin\Debug\Goals_PRG281_project.exe.config
+C:\Users\CryFo\OneDrive\Desktop\Goals_PRG281_project (2)\Goals_PRG281_project\Goals_PRG281_project\bin\Debug\Goals_PRG281_project.exe
+C:\Users\CryFo\OneDrive\Desktop\Goals_PRG281_project (2)\Goals_PRG281_project\Goals_PRG281_project\bin\Debug\Goals_PRG281_project.pdb
+C:\Users\CryFo\OneDrive\Desktop\Goals_PRG281_project (2)\Goals_PRG281_project\Goals_PRG281_project\bin\Debug\Microsoft.Solver.Foundation.dll
+C:\Users\CryFo\OneDrive\Desktop\Goals_PRG281_project (2)\Goals_PRG281_project\Goals_PRG281_project\bin\Debug\Microsoft.Solver.Foundation.xml
+C:\Users\CryFo\OneDrive\Desktop\Goals_PRG281_project (2)\Goals_PRG281_project\Goals_PRG281_project\obj\Debug\Goals_PRG281_project.csproj.CopyComplete
+C:\Users\icgeorge\Desktop\Visual programs\Goals_PRG281_project(1)\Goals_PRG281_project\Goals_PRG281_project\bin\Debug\Goals_PRG281_project.exe.config
+C:\Users\icgeorge\Desktop\Visual programs\Goals_PRG281_project(1)\Goals_PRG281_project\Goals_PRG281_project\bin\Debug\Goals_PRG281_project.exe
+C:\Users\icgeorge\Desktop\Visual programs\Goals_PRG281_project(1)\Goals_PRG281_project\Goals_PRG281_project\bin\Debug\Goals_PRG281_project.pdb
+C:\Users\icgeorge\Desktop\Visual programs\Goals_PRG281_project(1)\Goals_PRG281_project\Goals_PRG281_project\bin\Debug\Microsoft.Solver.Foundation.dll
+C:\Users\icgeorge\Desktop\Visual programs\Goals_PRG281_project(1)\Goals_PRG281_project\Goals_PRG281_project\bin\Debug\Microsoft.Solver.Foundation.xml
+C:\Users\icgeorge\Desktop\Visual programs\Goals_PRG281_project(1)\Goals_PRG281_project\Goals_PRG281_project\obj\Debug\Goals_PRG281_project.csproj.AssemblyReference.cache
+C:\Users\icgeorge\Desktop\Visual programs\Goals_PRG281_project(1)\Goals_PRG281_project\Goals_PRG281_project\obj\Debug\Goals_PRG281_project.frmCurrent_goals.resources
+C:\Users\icgeorge\Desktop\Visual programs\Goals_PRG281_project(1)\Goals_PRG281_project\Goals_PRG281_project\obj\Debug\Goals_PRG281_project.frmExpenseForm.resources
+C:\Users\icgeorge\Desktop\Visual programs\Goals_PRG281_project(1)\Goals_PRG281_project\Goals_PRG281_project\obj\Debug\Goals_PRG281_project.frmLoadingScreen.resources
+C:\Users\icgeorge\Desktop\Visual programs\Goals_PRG281_project(1)\Goals_PRG281_project\Goals_PRG281_project\obj\Debug\Goals_PRG281_project.frmBudgetSetup.resources
+C:\Users\icgeorge\Desktop\Visual programs\Goals_PRG281_project(1)\Goals_PRG281_project\Goals_PRG281_project\obj\Debug\PROJECTPAIN.frmLinprog.resources
+C:\Users\icgeorge\Desktop\Visual programs\Goals_PRG281_project(1)\Goals_PRG281_project\Goals_PRG281_project\obj\Debug\Goals_PRG281_project.frmViewDetailedExpenses.resources
+C:\Users\icgeorge\Desktop\Visual programs\Goals_PRG281_project(1)\Goals_PRG281_project\Goals_PRG281_project\obj\Debug\Goals_PRG281_project.frmExpenseTracker.resources
+C:\Users\icgeorge\Desktop\Visual programs\Goals_PRG281_project(1)\Goals_PRG281_project\Goals_PRG281_project\obj\Debug\Goals_PRG281_project.frmMainMenu.resources
+C:\Users\icgeorge\Desktop\Visual programs\Goals_PRG281_project(1)\Goals_PRG281_project\Goals_PRG281_project\obj\Debug\Goals_PRG281_project.frmGoal_setting.resources
+C:\Users\icgeorge\Desktop\Visual programs\Goals_PRG281_project(1)\Goals_PRG281_project\Goals_PRG281_project\obj\Debug\Goals_PRG281_project.Properties.Resources.resources
+C:\Users\icgeorge\Desktop\Visual programs\Goals_PRG281_project(1)\Goals_PRG281_project\Goals_PRG281_project\obj\Debug\Goals_PRG281_project.frmExistingBudgetScreen1.resources
+C:\Users\icgeorge\Desktop\Visual programs\Goals_PRG281_project(1)\Goals_PRG281_project\Goals_PRG281_project\obj\Debug\Goals_PRG281_project.csproj.GenerateResource.cache
+C:\Users\icgeorge\Desktop\Visual programs\Goals_PRG281_project(1)\Goals_PRG281_project\Goals_PRG281_project\obj\Debug\Goals_PRG281_project.csproj.CoreCompileInputs.cache
+C:\Users\icgeorge\Desktop\Visual programs\Goals_PRG281_project(1)\Goals_PRG281_project\Goals_PRG281_project\obj\Debug\Goals_PR.A25AC955.Up2Date
+C:\Users\icgeorge\Desktop\Visual programs\Goals_PRG281_project(1)\Goals_PRG281_project\Goals_PRG281_project\obj\Debug\Goals_PRG281_project.exe
+C:\Users\icgeorge\Desktop\Visual programs\Goals_PRG281_project(1)\Goals_PRG281_project\Goals_PRG281_project\obj\Debug\Goals_PRG281_project.pdb
+C:\Users\27763\OneDrive\Desktop\Notes\2024\PRG281\PRG_281 Project\Goals_PRG281_project\bin\Debug\Microsoft.Solver.Foundation.dll
+C:\Users\27763\OneDrive\Desktop\Notes\2024\PRG281\PRG_281 Project\Goals_PRG281_project\bin\Debug\Microsoft.Solver.Foundation.xml
+C:\Users\27763\OneDrive\Desktop\Notes\2024\PRG281\PRG_281 Project\Goals_PRG281_project\obj\Debug\Goals_PRG281_project.frmExpenseForm.resources
+C:\Users\27763\OneDrive\Desktop\Notes\2024\PRG281\PRG_281 Project\Goals_PRG281_project\obj\Debug\Goals_PRG281_project.frmLoadingScreen.resources
+C:\Users\27763\OneDrive\Desktop\Notes\2024\PRG281\PRG_281 Project\Goals_PRG281_project\obj\Debug\Goals_PRG281_project.frmBudgetSetup.resources
+C:\Users\27763\OneDrive\Desktop\Notes\2024\PRG281\PRG_281 Project\Goals_PRG281_project\obj\Debug\PROJECTPAIN.frmLinprog.resources
+C:\Users\27763\OneDrive\Desktop\Notes\2024\PRG281\PRG_281 Project\Goals_PRG281_project\obj\Debug\Goals_PRG281_project.frmViewDetailedExpenses.resources
+C:\Users\27763\OneDrive\Desktop\Notes\2024\PRG281\PRG_281 Project\Goals_PRG281_project\obj\Debug\Goals_PRG281_project.frmExpenseTracker.resources
+C:\Users\27763\OneDrive\Desktop\Notes\2024\PRG281\PRG_281 Project\Goals_PRG281_project\obj\Debug\Goals_PRG281_project.frmExistingBudgetScreen1.resources
+C:\Users\27763\OneDrive\Desktop\Notes\2024\PRG281\PRG_281 Project\Goals_PRG281_project\obj\Debug\Goals_PR.A25AC955.Up2Date

@@ -1,0 +1,12 @@
+C:\Users\CryFo\OneDrive\Desktop\PROJECTPAIN@\bin\Debug\PROJECTPAIN@.exe.config
+C:\Users\CryFo\OneDrive\Desktop\PROJECTPAIN@\bin\Debug\PROJECTPAIN@.exe
+C:\Users\CryFo\OneDrive\Desktop\PROJECTPAIN@\bin\Debug\PROJECTPAIN@.pdb
+C:\Users\CryFo\OneDrive\Desktop\PROJECTPAIN@\obj\Debug\PROJECTPAIN@.csproj.AssemblyReference.cache
+C:\Users\CryFo\OneDrive\Desktop\PROJECTPAIN@\obj\Debug\PROJECTPAIN@.csproj.SuggestedBindingRedirects.cache
+C:\Users\CryFo\OneDrive\Desktop\PROJECTPAIN@\obj\Debug\PROJECTPAIN_.frmExpenseTracker.resources
+C:\Users\CryFo\OneDrive\Desktop\PROJECTPAIN@\obj\Debug\PROJECTPAIN_.Properties.Resources.resources
+C:\Users\CryFo\OneDrive\Desktop\PROJECTPAIN@\obj\Debug\PROJECTPAIN@.csproj.GenerateResource.cache
+C:\Users\CryFo\OneDrive\Desktop\PROJECTPAIN@\obj\Debug\PROJECTPAIN@.csproj.CoreCompileInputs.cache
+C:\Users\CryFo\OneDrive\Desktop\PROJECTPAIN@\obj\Debug\PROJECTPAIN@.exe
+C:\Users\CryFo\OneDrive\Desktop\PROJECTPAIN@\obj\Debug\PROJECTPAIN@.pdb
+C:\Users\CryFo\OneDrive\Desktop\PROJECTPAIN@\obj\Debug\PROJECTPAIN_.frmExpenseForm.resources
